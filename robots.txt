@@ -10,6 +10,6 @@ Allow: /wp-admin/admin-ajax.php
 Allow: /cdn-cgi/zaraz/s.js?z=
 Allow: /?s={search_term_string}
 
-Sitemap: https://watsabplus.gold/sitemap_index.xml
+Sitemap: https://test.watsabplus.gold/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
